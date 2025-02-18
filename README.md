@@ -22,7 +22,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-### Commits
+## Featured Projects 🚀
+- **[AlphaCeres Agrobot](https://github.com/tjacobs131/Agrobot_ws)** - A pixelfarming robot for a robot competition.
+- **[EnergyInfo](https://github.com/tjacobs131/EnergyInfo)** - Electricity price notification app.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjacobs131&show_icons=true&theme=dracula)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tjacobs131&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
