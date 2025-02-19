@@ -1,6 +1,7 @@
 ## Featured Projects 🚀
-  - **[AlphaCeres Agrobot](https://github.com/tjacobs131/Agrobot_ws)** - A pixelfarming robot for a robot competition.
+  - **[KoreZeta Agrobot](https://github.com/tjacobs131/Agrobot_ws)** - A pixelfarming robot for a robot competition.
   - **[EnergyInfo](https://github.com/tjacobs131/EnergyInfo)** - Electricity price notification app.
+  - **[Robot Safety Validation](https://github.com/tjacobs131/Gazebo-Human-Safety-Validation)** - Gazebo ROS2 simulation to test robot movement around humans.
 
 ## Tech Stack 🛠️
 
