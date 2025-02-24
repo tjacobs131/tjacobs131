@@ -1,3 +1,6 @@
+## Current Project 🔎
+  - **[PID Auto-Tuner](https://github.com/tjacobs131/DM-Vacuumsystems_PID-Auto-Tuner)** - An auto-tuner for PID controllers within D&M Vacuumsystems
+
 ## Featured Projects 🚀
   - **[KoreZeta Agrobot](https://github.com/tjacobs131/Agrobot_ws)** - A pixelfarming robot for a robot competition.
   - **[PrijsWijs](https://github.com/tjacobs131/EnergyInfo)** - Electricity price notification app.
