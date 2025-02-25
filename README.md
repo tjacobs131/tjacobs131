@@ -6,7 +6,7 @@
   - **[PrijsWijs](https://github.com/tjacobs131/EnergyInfo)** - Electricity price notification app.
   - **[Robot Safety Validation](https://github.com/tjacobs131/Gazebo-Human-Safety-Validation)** - ROS2 Gazebo simulation to test robot movement around humans.
 
-## Tech Stack 🛠️
+## Languages 📖
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -21,6 +21,11 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
 <img width="12" />
+</div>
+
+## Tech Stack 🛠️
+
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
