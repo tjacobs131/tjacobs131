@@ -34,3 +34,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjacobs131&show_icons=true&theme=dracula&hide_rank=true)
 
 <img src="https://streak-stats.demolab.com?user=tjacobs131&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+![](https://komarev.com/ghpvc/?username=tjacobs131)
