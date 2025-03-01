@@ -46,7 +46,10 @@
 </div>
 
 ## Github Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjacobs131&show_icons=true&theme=dracula&hide_rank=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjacobs131&exclude_repo=LittleBuddy,Gazebo-Human-Safety-Validation)](https://github.com/tjacobs131/github-readme-stats)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjacobs131&show_icons=true&theme=dracula&hide_rank=true&show=prs_merged&langs_count=6)
 
 <img src="https://streak-stats.demolab.com?user=tjacobs131&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
