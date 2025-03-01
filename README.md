@@ -46,7 +46,7 @@
 </div>
 
 ## Github Stats 📊
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjacobs131&exclude_repo=LittleBuddy,Gazebo-Human-Safety-Validation)](https://github.com/tjacobs131/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tjacobs131&exclude_repo=LittleBuddy,Gazebo-Human-Safety-Validation&theme=dracula)](https://github.com/tjacobs131/github-readme-stats)
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjacobs131&show_icons=true&theme=dracula&hide_rank=true&show=prs_merged&langs_count=6)
