@@ -23,6 +23,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="go logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="c logo" />
+<img width="12" />
+<img src="https://smookcreative.gallerycdn.vsassets.io/extensions/smookcreative/structuredtext/0.1.1/1508154263151/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="st logo" />
 </div>
 
 ## Tech Stack 🛠️
