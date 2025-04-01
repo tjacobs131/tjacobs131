@@ -55,4 +55,4 @@
 
 <img src="https://streak-stats.demolab.com?user=tjacobs131&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
-![](https://komarev.com/ghpvc/?username=tjacobs131&abbreviated=true&color=lightgrey)
+[//]: ![](https://komarev.com/ghpvc/?username=tjacobs131&abbreviated=true&color=lightgrey)
